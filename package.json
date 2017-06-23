@@ -27,6 +27,7 @@
     "react": "^15.3.2",
     "react-bootstrap": "^0.30.6",
     "react-bootstrap-sweetalert": "^3.0.0",
+    "react-confirm-bootstrap": "^3.1.4",
     "react-dom": "^15.3.2",
     "react-redux": "4.4.5",
     "react-router": "2.4.0",
